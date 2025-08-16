@@ -1,5 +1,10 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>Integrating AI into Flutter apps and building clean, intuitive UIs that scale.<br>🤝 I’m looking to collaborate on<br>Open-source Flutter projects, AI-powered mobile apps, and UI/UX focused tools.<br>🙌 I’m looking for help with<br>Exploring advanced AI integrations, backend optimizations, and setting up smooth CI/CD pipelines for Flutter projects.<br>🌱 I’m currently learning<br>Deepening my skills in advanced AI workflows, and Flutter performance optimization.<br>💬 Ask me about<br>Flutter app development, state management (BLoC, Riverpod), AI integrations, clean UI patterns, or Laravel APIs.<br>⚡ Fun fact<br>I once built a joystick-controlled robotic arm with Arduino—and now I channel that same creativity into blending AI with mobile apps.
+I’m a Flutter developer passionate about building scalable, high-performance mobile applications. My current focus is integrating AI into Flutter apps and designing clean, user-friendly UIs.
+🔹 Experienced in Flutter, Dart, Laravel, and TypeScript
+🔹 Interested in collaborations around AI-driven mobile apps and fintech solutions
+🔹 Continuously learning advanced AI workflows
+🔹 Open to remote roles, freelance projects, and global opportunities
+When I’m not coding, I explore robotics projects with Arduino, combining creativity with engineering.
 
 
 ## 🌐 Socials:
