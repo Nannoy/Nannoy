@@ -1,10 +1,13 @@
 # 💫 About Me:
-I’m a Flutter developer passionate about building scalable, high-performance mobile applications. My current focus is integrating AI into Flutter apps and designing clean, user-friendly UIs.
-🔹 Experienced in Flutter, Dart, Laravel, and TypeScript
-🔹 Interested in collaborations around AI-driven mobile apps and fintech solutions
-🔹 Continuously learning advanced AI workflows
-🔹 Open to remote roles, freelance projects, and global opportunities
+I’m a Flutter developer passionate about building scalable, high-performance mobile applications. My current focus is integrating **AI into Flutter apps** and designing **clean, user-friendly UIs**.  
+
+- 🔹 Experienced in Flutter, Dart, Laravel, and TypeScript  
+- 🔹 Interested in collaborations around AI-driven mobile apps and fintech solutions  
+- 🔹 Continuously learning advanced AI workflows  
+- 🔹 Open to remote roles, freelance projects, and global opportunities  
+
 When I’m not coding, I explore robotics projects with Arduino, combining creativity with engineering.
+
 
 
 ## 🌐 Socials:
